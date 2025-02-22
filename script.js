@@ -27,7 +27,7 @@ const account3 = {
 };
 
 const account4 = {
-  owner: 'poop poop',
+  owner: 'John Doe',
   movements: [430, 1000, 700, 50, 90],
   interestRate: 1,
   pin: 4444,
